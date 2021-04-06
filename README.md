@@ -1,13 +1,13 @@
-<h1 align="center">Car Rental</h1>
+<h1 align="center">:oncoming_automobile: Car Rental :oncoming_automobile:</h1>
 
-## Description 
+## :pencil2: Description 
 - A java web app that allows users to book cars to travel with specific rental dates and return dates.
 
 <p align="center">
   <img  src="./readme_assets/Logo.png">
 </p>
 
-## Technicals
+## :computer: Technicals
 - Java Web Application
 - Java Servlet and JSP service
 - Apache Tomcat 8.0.27.0
